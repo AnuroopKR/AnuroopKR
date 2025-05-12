@@ -70,8 +70,8 @@ A **CRUD app** built using **React**, **Redux**, **Node.js**, and **MongoDB** fo
 ---
 
 ## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-linkedin/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anuroopkr/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github)](https://anuroop-nine.vercel.app/)
 
 
 ## 🎯 **Current Learning Goals**  
